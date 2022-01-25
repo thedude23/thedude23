@@ -26,7 +26,7 @@ PRIMARY TECHNICAL SKILLS:
 - Mid knowledge of JavaScript (ES6) and jQuery
 - Junior-mid knowledge of PHP and (My)SQL
 - Proficiency with pre-processors, bundlers, task runners, code linters (npm, Webpack, gulp, composer, ...)
-- Familiarity with modern front-end frameworks (React, Vue, Frontity)
+- Familiarity with modern front-end frameworks (React, Vue, Frontity) -- currently improving my React knowledge
 - Familiarity with modern back-end frameworks (Laravel)
 - Mid-senior knowledge of WordPress
 - Junior-mid knowledge of Drupal (site-building and FE stuff)
@@ -52,8 +52,6 @@ OTHER SKILLS:
 - Fast learner
 - Proficient in English
 - Some experience with project leadership/management
-
-🌱 I'm currently learning React
 
 🏢 I work at Agiledrop (https://www.agiledrop.com/)
 
