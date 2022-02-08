@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------
 
-I have close to 4 years of experience as a Web (Frontend) Developer (& a bit of UX Designer).
-
 PRIMARY TECHNICAL SKILLS:
 - Senior knowledge of HTML, CSS, Sass/SCSS and Bootstrap
 - Mid knowledge of JavaScript (ES6) and jQuery
@@ -29,7 +27,7 @@ PRIMARY TECHNICAL SKILLS:
 - Familiarity with modern front-end frameworks (React, Vue, Frontity) -- currently improving my React knowledge
 - Familiarity with modern back-end frameworks (Laravel)
 - Mid-senior knowledge of WordPress
-- Junior-mid knowledge of Drupal (site-building and FE stuff)
+- Mid knowledge of Drupal (site-building and FE stuff)
 - Proficiency with Docker and other local environment setups (XAMPP/MAMP)
 - Knowledge of interacting with APIs
 - Proficiency with code versioning tools, namely GIT (GitHub, GitLab, Bitbucket, GitHub Desktop, …)
@@ -52,7 +50,5 @@ OTHER SKILLS:
 - Fast learner
 - Proficient in English
 - Some experience with project leadership/management
-
-🏢 I work at Agiledrop (https://www.agiledrop.com/)
 
 📫 You can reach me at t.koprivnik@gmail.com
