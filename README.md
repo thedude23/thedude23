@@ -50,5 +50,3 @@ OTHER SKILLS:
 - Fast learner
 - Proficient in English
 - Some experience with project leadership/management
-
-📫 You can reach me at t.koprivnik@gmail.com
